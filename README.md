@@ -37,7 +37,7 @@ Percorrer e buscar dados em listas
 Clone este repositório:
 git clone https://github.com/DutraBrun0/controle_alunos.git
 Entre na pasta:
-cd cadastro-alunos-python
+cd controle_alunos
 Execute o programa:
 python cadastro_alunos.py
 
