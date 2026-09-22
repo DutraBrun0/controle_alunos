@@ -14,21 +14,21 @@ Encerrar o sistema
 
 Durante o desenvolvimento, foram utilizados conceitos fundamentais de Python:
 
-Variáveis e tipos de dados,
+Variáveis e tipos de dados
 
-Listas,
+Listas
 
-Dicionários,
+Dicionários
 
-Funções,
+Funções
 
-Estruturas condicionais,
+Estruturas condicionais
 
-Estruturas de repetição,
+Estruturas de repetição
 
-input() e print(),
+input() e print()
 
-Operações matemáticas e
+Operações matemáticas 
 
 Percorrer e buscar dados em listas
 
